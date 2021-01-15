@@ -1,2 +1,2 @@
 # BlogProt-FE
-Repositório para estudos da aplicação angular.
+Repositório para estudos da aplicação angular FrontEnd.
